@@ -1,0 +1,5 @@
+_class,_id,address,contact,name,od,payment,product,quantity,state
+com.kitchenstory.entities.Order,1.67249E+12,"173,RMV,Bangalore, 560097",6666666666,Tweets,"Aug 22, 2023",Card,[object Object],3,Karnataka
+com.kitchenstory.entities.Order,1.67249E+12,"5114, 4th Cross Road, City Residence, Bangalore",7777777777,Mark,"Aug 22, 2023",COD,[object Object],4,Karnataka
+com.kitchenstory.entities.Order,1.6725E+12,"2119, 2nd Cross Road,40001",8888888888,Rajesh,"Aug 22, 2023",Card,[object Object],3,Maharashtra
+com.kitchenstory.entities.Order,1.6725E+12,"4, 4th Cross Road, City Residence",9999999999,Tom,"Aug 22, 2023",COD,[object Object],2,Gujarat
